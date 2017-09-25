@@ -1,0 +1,7 @@
+{
+  "name": "stigwue/is-mail",
+  "description": "A funny and hopefully non-annoying way to pick random names for unregistered users or anonymize identities.",
+  "require": {
+        "dominicsayers/isemail": "^3.0"
+    }
+}
