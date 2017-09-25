@@ -2,11 +2,11 @@
 
 require_once(__DIR__ . '/vendor/autoload.php');
 
-class Mail
+class IsMail
 {
     //validation via RFCs
     //provided by https://github.com/dominicsayers/isemail
-    public static function isValidEmail($email_to_test)
+    public static function isRFCValid($email_to_test)
     {
         if (is_email($email_to_test))
         {
