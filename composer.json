@@ -6,7 +6,10 @@
       "validation"
   ],
   "license": "MIT",
+  "autoload": {
+      "files": ["is-mail.php"]
+  },
   "require": {
         "dominicsayers/isemail": "^3.0"
-    }
+  }
 }
