@@ -1,6 +1,11 @@
 {
   "name": "stigwue/is-mail",
-  "description": "A funny and hopefully non-annoying way to pick random names for unregistered users or anonymize identities.",
+  "description": "A funny and hopefully non-annoying way to pick random names for unregistered users or anonymize identities.",,
+  "keywords": [
+      "email",
+      "validation"
+  ],
+  "license": "MIT",
   "require": {
         "dominicsayers/isemail": "^3.0"
     }
